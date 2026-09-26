@@ -28,7 +28,6 @@ Create a file named `.env` in the project root. Add the values required by the p
 ```env
 DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 CLIENT_ID=YOUR_CLIENT_ID
-GUILD_ID=YOUR_GUILD_ID
 MONGO_URI=YOUR_MONGODB_URI
 ```
 
